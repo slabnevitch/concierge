@@ -5,11 +5,7 @@
   src: url("../fonts/JakobCTTBold/JakobCTT-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/JakobCTTBold/JakobCTT-Bold.woff") format("woff"), url("../fonts/JakobCTTBold/JakobCTT-Bold.ttf") format("truetype"); }
 
 body {
-  font-weight: normal;
-  min-width: 320px;
-  position: relative;
-  -webkit-font-smoothing: antialiased;
-  overflow-x: hidden; }
+  }
 
 .concierg-slider {
   margin: 0 auto;
